@@ -47,7 +47,23 @@ body, html{
   text-transform: uppercase;
 }
 
+.ptext .border{
+  background-color: #111;
+  color: #fff;
+  padding: 20px;
+}
+
 section{
   text-align:center;
   padding: 50px 80px;
+}
+
+.sec-light{
+  background-color: #f4f4f4;
+  color: #666
+}
+
+.sec-dark{
+  background-color: #282e34;
+  color: #ddd
 }
